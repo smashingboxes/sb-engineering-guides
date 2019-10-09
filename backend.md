@@ -6,7 +6,7 @@
 
 #### Imports
 
-The `main()` function that starts the application should reside at the project's top-level folder so you can use "absolute" imports.
+The file containing the `main()` function that starts the application should reside at the project's top-level folder so you can use "absolute" imports.
 
 ##### Example
 ```
