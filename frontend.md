@@ -8,7 +8,7 @@
 Prettier is an opinionated code formatter.
 
 ##### Installation
-1. Install the Node packge:
+1. Install the Node package:
 
 Install with `npm`:
 ```bash
