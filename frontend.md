@@ -12,14 +12,14 @@ Prettier is an opinionated code formatter.
 
 Install with `npm`:
 ```bash
-npm install --save-dev --save-exact prettier
+npm install --save-dev prettier
 # or globally
 npm install --global prettier
 ```
 
 Install with `yarn`:
 ```bash
-yarn add prettier --dev --exact
+yarn add prettier --dev
 # or globally
 yarn global add prettier
 ```
