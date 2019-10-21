@@ -27,7 +27,3 @@ yarn global add prettier
 2. Install the VS Code extension:
 
 Search the VS Code extensions for `Prettier - Code formatter` and click `Install`.
-
-
-
-
