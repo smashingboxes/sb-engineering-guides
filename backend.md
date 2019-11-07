@@ -1,7 +1,7 @@
 # Backend
 ## Deployment
 ### Deployment Documentation Template
-#### Key Locations
+#### SSH Key Locations
 ...
 #### Environments
 ...
