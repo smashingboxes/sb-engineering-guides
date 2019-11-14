@@ -38,7 +38,7 @@ This is where non-code project files live, e.g. test plans, spreadsheets, expens
 At the start of every work day, a suggestion as a first task is to open and view Google Calendar, Slack and your SB email. 
 Maintaining a connection to these throughout the day is wise.
 ### Development Environment
-As far as your development environment, (language and framework versions, browsers, etc.) this is probably worth a conversation with a dev. 
+As far as your development environment, (language and framework versions, browsers, etc.) in addition to reading the other docs in this repo, this is worth conversations with other SB devs. 
 There is much variation and the projects being worked on will largely dictate what you’ll be using. 
 Personal preference comes into play too, so if you know what text editor you prefer for instance, there’s not one standard for most aspects of an environment.
 ### Onboarding to projects
