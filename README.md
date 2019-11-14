@@ -1,7 +1,7 @@
 # SB Engineering Guides
 The SB Engineering Guides provide a way to document processes and best practices that have established themselves over time or resulted from spikes and meetings.
 
-Rather than just capturing `what` they should also document `why` in the form of discussions of a pull request.
+Rather than just capturing how we do things at SB, this shall repo also document why we do it that way in the form of discussions inside a pull request.
 
 The following table should help you decide if something should go in a guide or not:
 
