@@ -38,4 +38,8 @@ Consider the above folder structure. If you start the app by running `python mai
 from package1 import module1
 from package1.module2 import function1
 from package2.subpackage1.module5 import function2
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> c95fd600b839fb556cb793de912278ab9d5ffe85
