@@ -2,11 +2,11 @@
 
 ## Entity-Relationship Diagrams [ERD]
 
-All projects should include regularly updated ERD files at the README level.
+All ```boxcar``` projects include the following gem:
 
-Gem:
 ```
 https://github.com/voormedia/rails-erd
 ```
 
-Note: This gem ships with SB's Boxcar template.
+The gem is installed and set to auto-update a file named ```ER_Model.pdf``` after each migration.
+This file is linked to in the ```README.md``` for documentation purposes.
