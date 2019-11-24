@@ -12,14 +12,6 @@ Everyone involved in the project should speak a common language that prevents am
 Iron out difficulties by experimenting with alternative expressions, which reflect alternative models. Then refactor the code, renaming classes, methods and modules to conform to the new model. Resolve confusion over terms in conversation, in just the way we converge on agreed meaning of ordinary words." [1]
 
 
-## Bounded Context
-#### Problem
-"Multiple models are in play on any large project. They emerge for many reasons. Two subsystems commonly serve very different user communities, with different jobs, where different models may be useful. Teams working independently may solve the same problem in different ways through lack of communication. The tool set may also be different, meaning that program code cannot be shared." [2]
-
-#### Technique
-"Explicitly define the context within which a model applies. Explicitly set boundaries in terms of team organization, usage within specific parts of the application, and physical manifestations such as code bases and database schemas." [2]
-
-
 ## Model-Driven Design
 #### Problem
 Once you start to design software based on your models of the domain you usually find reasons to depart from the original models.
@@ -42,4 +34,5 @@ Domain events are ordinarily immutable, as they are a record of something in the
 
 ## Sources
 [1] Domain-Driven Design, Eric Evans, 2003
+
 [2] Domain-Driven Design Reference, Eric Evans, 2015
