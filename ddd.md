@@ -37,4 +37,4 @@ Domain events are ordinarily immutable, as they are a record of something in the
 ## Sources
 [1] Domain-Driven Design, Eric Evans, 2003
 
-[2] Domain-Driven Design Reference, Eric Evans, 2015
+[2] [Domain-Driven Design Reference, Eric Evans, 2015](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
