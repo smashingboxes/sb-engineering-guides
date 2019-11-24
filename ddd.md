@@ -14,7 +14,7 @@ Iron out difficulties by experimenting with alternative expressions, which refle
 
 ## Model-Driven Design
 #### Problem
-Once you start to design software based on your models of the domain you usually find reasons to depart from the original models.
+Once you start to design software based on your model of the domain you usually find reasons to depart from the original model.
 
 #### Technique
 "Design a portion of the software system to reflect the domain model in a very literal way, so that mapping is obvious." [2] As soon as you start depart from it: "Revisit the model and modify it to be implemented more naturally in software". [2]
@@ -28,9 +28,11 @@ Once you start to design software based on your models of the domain you usually
 
 #### Technique
 "Model information about activity in the domain as a series of discrete events. Represent each event as a domain object. These are distinct from system events that reflect activity within the software itself [...]
+
 A domain event is a full-fledged part of the domain model, a representation of something that happened in the domain. Ignore irrelevant domain activity while making explicit the events that the domain experts want to track or be notified of, or which are associated with state change in the other model objects. [...]
 
 Domain events are ordinarily immutable, as they are a record of something in the past. In addition to a description of the event, a domain event typically contains a timestamp for the time the event occurred and the identity of entities involved in the event. Also, a domain event often has a separate timestamp indicating when the event was entered into the system and the identity of the person who entered it. When useful, an identity for the domain event can be based on some set of these properties. So, for example, if two instances of the same event arrive at a node they can be recognized as the same." [2]
+
 
 ## Sources
 [1] Domain-Driven Design, Eric Evans, 2003
