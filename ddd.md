@@ -17,7 +17,7 @@ Iron out difficulties by experimenting with alternative expressions, which refle
 Once you start to design software based on your model of the domain you usually find reasons to depart from the original model.
 
 #### Technique
-"Design a portion of the software system to reflect the domain model in a very literal way, so that mapping is obvious." [2] As soon as you start depart from it: "Revisit the model and modify it to be implemented more naturally in software". [2]
+"Design a portion of the software system to reflect the domain model in a very literal way, so that mapping is obvious." [2] As soon as you start to depart from it: "Revisit the model and modify it to be implemented more naturally in software". [2]
 
 "Concentrate all the code related to the domain model in one layer and isolate it from the user interface, application, and infrastructure code. The domain objects, free of the responsibility of displaying themselves, storing themselves, managing application tasks, and so forth, can be focused on expressing the domain model." [2]
 
